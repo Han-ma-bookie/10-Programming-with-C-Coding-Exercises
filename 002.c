@@ -1,4 +1,5 @@
 //Create a program that displays the first 100 prime numbers.
+//Probably it can be done better, really better.
 #include <stdio.h>
 #include <stdbool.h>
 int prime (int x, int y){
